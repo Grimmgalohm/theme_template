@@ -16,7 +16,7 @@
               'theme_location' => 'primary',
               'menu_class'     => 'primary-menu small-text',
               'depth'          => 4,
-              'fallback_cb'    => 'azera_shop_wp_page_menu',
+              'fallback_cb'    => 'theme_template_wp_page_menu',
             )
           );
         ?>
